@@ -2,7 +2,7 @@
 
 This is a professional, responsive academic degree verification web portal for BRAC University. Hosted live using GitHub Pages.
 
-🔗 **Live Demo**: (https://github.com/habibur995/brac-degree-verification)
+🔗 **Live Demo**: (https://github.io/habibur995/brac-degree-verification)
 
 ## Features
 
